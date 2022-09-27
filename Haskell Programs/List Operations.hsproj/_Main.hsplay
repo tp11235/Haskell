@@ -1,0 +1,31 @@
+-- Haskell Playground 1.0
+map (+1) [1,2,3,4,5]
+
+sumList[1,2,3,4]
+
+triangleNumbers 20
+
+isFactor 20 5
+
+listProperFactors 20
+
+listProperFactors 31
+
+findPrimesUpTo 110
+
+
+
+
+foldr (*) 1 [1,2,3,4]
+foldl (*) 1 [1,2,3,4]
+foldr (+) 2 [1,2,3,4]
+
+span (==3) [3,3,3,3,4,5,6,7]
+span (=="Fred") ["Fred","Fred","Elsie","Ginger"]
+
+
+
+
+
+
+
